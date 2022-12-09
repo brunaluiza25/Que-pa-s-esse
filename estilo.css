@@ -1,0 +1,156 @@
+body{
+    font-family: Arial;	
+    color: #f6f6f6;
+    background-attachment: fixed;
+    justify-content: center;
+    display: fex;
+    }
+
+    #merchan{
+        box-shadow:0px 0px 10px 5px #ff0000;
+
+    }
+    #merchan2{
+        box-shadow:0px 0px 10px 5px #ff0000;
+    }
+
+    #imagem{
+        top: 500px;
+        width: auto;
+        height: 1220px;
+        margin-bottom: 1200px;
+    }
+
+    #resumo{
+        text-align: center;
+        text-decoration:underline;
+
+    }
+
+
+    .titulo{
+        color: #BF2A2A;
+
+    }
+
+    #subtitulo1{
+        font-size: 30px;
+        text-align: justify; 
+    }
+
+
+    p{
+        font-family: Arial;
+        font-size: 30px;
+        word-spacing: 0px;
+        
+    }
+    
+    #menu{
+        height: 50px;
+        width: 1200px;
+        padding: 10px 0px;
+        text-align: center;
+        word-spacing: 10px;
+        background-color: rgb(131, 19, 19);;
+    }
+    /*FORMATAÇÃO DO LINK*/
+    
+    .cabecalho{
+        height: 200px;
+        margin: 5px 0px;
+       
+    } 
+    .cabecalho img{
+        margin: 0px;
+        width: 1200px;
+        height: 250px;
+        padding: 0px;
+    }
+    #conteudo{
+        width: 1200px;
+    }
+    
+    #principal{
+        background-color:#000000; 
+        height: auto;
+        width: 1200px;
+        float: left;
+        margin: 5px 0px 10px 0px;
+        padding: 5px;
+    }
+    .lateral{
+        width: 255px;
+        border-radius: 2px; 
+        font-size: 15px;
+        float:right;
+        padding: 12px;
+        height:4800px;
+        background-color:#290101;
+        box-shadow:10px 0px 10px 5px #090b24;
+       
+    }
+    .lateral img{
+       
+        height: auto;
+    }
+    #rodape{
+        width: 1200px;
+        height: 80px;
+        clear: both;
+        text-align: center;
+        background-color:rgb(131, 19, 19);
+
+
+    }
+    #pagina{
+        margin: 50px auto;
+        border: 2px solid #C6BA88;
+        width: 1200px;
+    }
+    a:link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    }
+    a:visited{
+        color: #ffffff;
+       letter-spacing:normal;
+    }
+    a:hover { /*#sobre o link*/
+        text-decoration: none;
+        background-color: #ff0000;
+        color: #ffffff;
+        padding: 5px;
+        }
+
+
+
+
+
+    
+
+
+
+
+        .postagem{
+            padding: 20px;
+            margin-bottom: 20px;
+            background-color: #090b24;
+            text-align:justify;
+            box-shadow:0px 0px 10px 5px #ff0000;
+       
+        }
+
+        #area-principal{
+            width: 80%;
+            margin: 5px auto;
+            padding: 15px;
+        }
+
+        #area-postagem-principal{
+            width: 70%;
+            float:left;
+        }
+
+        
+              
